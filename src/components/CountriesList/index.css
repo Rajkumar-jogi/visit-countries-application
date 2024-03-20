@@ -1,0 +1,17 @@
+.countries-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #f1f5f9;
+  width: 90%;
+}
+
+.countries-list-container {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  height: 240px;
+  align-items: center;
+  list-style: none;
+  padding-left: 0;
+  overflow-y: auto;
+}

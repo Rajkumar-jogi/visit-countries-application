@@ -1,0 +1,29 @@
+.visited-countris-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #ffffff;
+  font-weight: 700;
+  width: 90%;
+}
+
+.visited-countries-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  list-style: none;
+  padding-left: 0;
+  border: 2px solid green;
+}
+
+.empty-view-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.no-counties-text {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #cbd5e1;
+  font-weight: 500;
+}
